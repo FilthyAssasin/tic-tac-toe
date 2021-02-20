@@ -1,0 +1,30 @@
+body {
+  background-color: #f1f3f6 !important;
+}
+.header {
+  background-color: white;
+}
+.gameBoard {
+  height: 75vh;
+  border-radius: 5%;
+}
+
+.game-square {
+  width: 33.33%;
+  height: 33.33%;
+}
+
+.bt {
+  border-top: 5px solid rgb(255, 27, 27) !important;
+}
+.bb {
+  border-bottom: 5px solid rgb(255, 27, 27) !important;
+}
+.bsb {
+  border-left: 5px solid rgb(255, 27, 27) !important;
+  border-right: 5px solid rgb(255, 27, 27) !important;
+}
+.x10 {
+  font-size: 10rem;
+  font-family: "Courier New", Courier, monospace;
+}
